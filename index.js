@@ -72,10 +72,10 @@ function loadScript(url) {
 }
 
 let urlLoad = [
-  {
-      url: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js", // Full version of jQuery
-      name: "jQuery",
-  },
+  // {
+  //     url: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js", // Full version of jQuery
+  //     name: "jQuery",
+  // },
   {
       url: "https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js",
       name: "Popper-JS",
